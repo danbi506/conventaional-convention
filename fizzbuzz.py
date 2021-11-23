@@ -1,13 +1,15 @@
-fruits = ['Apple', 'Banana', 'Pineapple']
+fruits = ['Apple', 'Banana', 'Pineapple', 3]
 
 animals = [
 	'Lion',
 	'Tiger',
-	'Rabbit'
+	'Rabbit',
+	3
 ]
 Clubs = [
 	'MansU',
 	'ManC',
+	3,
 ]
 
 for i in range(1,16+1):
